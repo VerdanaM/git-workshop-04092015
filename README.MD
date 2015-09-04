@@ -1,7 +1,7 @@
 GIT WORKSHOP
 ==========
 
-Git Workshop am SAE am 4. September *2015*
+Git Workshop am SAE Wien am 4. September *2015*
 
 Was ist Git?
 ---------
@@ -17,3 +17,7 @@ Was ist Git?
 * Origin  
 	Die/eine Datenquelle/Original-Source
 
+
+
+
+Liebe Grüße vom Luis
